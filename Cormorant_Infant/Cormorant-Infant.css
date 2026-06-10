@@ -4,18 +4,6 @@
 
 @font-face {
     font-family: 'cormorant_infant';
-    src: url('cormorantinfant-italic-variablefont_wght-webfont.woff2') format('woff2'),
-         url('cormorantinfant-italic-variablefont_wght-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: italic;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'cormorant_infant';
     src: url('cormorantinfant-variablefont_wght-webfont.woff2') format('woff2'),
          url('cormorantinfant-variablefont_wght-webfont.woff') format('woff');
     font-weight: normal;
